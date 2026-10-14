@@ -1,0 +1,8 @@
+CBMan - PWA (version Redmi A5)
+
+1. Dézippez ce dossier.
+2. Envoyez TOUS les fichiers à la racine du dépôt GitHub Pages (remplacer les anciens) :
+   index.html, manifest.json, service-worker.js, icon-192.png, icon-512.png
+3. Sur le Redmi A5, ouvrez le site dans CHROME (pas Facebook / WhatsApp / Mi Browser).
+4. Appuyez sur le bouton "Installer l'application" (ou menu ⋮ > Installer l'application / Ajouter à l'écran d'accueil).
+5. Si l'ancienne version s'affiche : fermez Chrome puis rouvrez, ou rechargez la page 2 fois.
